@@ -51,7 +51,7 @@ Backend development best practices
 
 # N Commandments
 
-1. README.md in the root of the repo is the docs
+1. README.md in the root of the repo, not in the docs/
 2. Single command run
 3. Single command deploy
 4. Repeatable and re-creatable builds
